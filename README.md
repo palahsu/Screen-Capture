@@ -1,11 +1,13 @@
 # Screen-Capture
 Screen Capture for Desktop. It's support incognito browser screen.
 
+# Support Device
+
+●Windows
+
 ## For more help join Telegram Group:
 
-◑https://t.me/AD0000000
-
-◑http://t.me/linux_repo
+<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Follow on:
 <p align="left">
@@ -15,4 +17,5 @@ Screen Capture for Desktop. It's support incognito browser screen.
 </p><p align="left">
 <a href="https://facebook.com/Aduri.knox"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p><p align="left">
-
+<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+</p><p align="left"> 
